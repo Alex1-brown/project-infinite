@@ -1,0 +1,1 @@
+"""Galaxy generation and structure."""
